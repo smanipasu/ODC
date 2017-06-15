@@ -36,6 +36,9 @@
                           </div>
                               <input type="Submit" class="button" name="Submit" value="Login">
                     </div>
+                    <div>
+                    Welcome Test
+                    </div>
                       
                 </form>
               </div>
